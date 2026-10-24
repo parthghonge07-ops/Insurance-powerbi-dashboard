@@ -12,7 +12,7 @@ Interactive Power BI dashboard analyzing policies, premiums, and claims for Pris
 
 ## Insights
 - Travel policies bring the highest premium (2.48M); Home the lowest (0.60M)
-- ~69% of policies are active, ~31% inactive
+- ~69% of policies are inactive, ~31% active
 - Rejected claims are the most common status (4.4K), followed by Settled (3.4K) and Pending (2.3K)
 - Adults account for the highest claim amount (8.8M)
 
